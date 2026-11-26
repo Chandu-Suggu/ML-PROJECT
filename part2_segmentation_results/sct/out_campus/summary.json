@@ -1,0 +1,58 @@
+{
+  "test_1": {
+    "Road & paths": 41.19,
+    "Sky": 24.48,
+    "Trees & greenery": 9.75,
+    "People": 0.66,
+    "Buildings": 23.04,
+    "Foreign objects": 0.87
+  },
+  "test_2": {
+    "Road & paths": 39.81,
+    "Sky": 29.72,
+    "Trees & greenery": 25.98,
+    "People": 0.0,
+    "Buildings": 1.95,
+    "Foreign objects": 2.54
+  },
+  "test_3": {
+    "Road & paths": 44.92,
+    "Sky": 17.4,
+    "Trees & greenery": 27.39,
+    "People": 0.48,
+    "Buildings": 7.06,
+    "Foreign objects": 2.76
+  },
+  "test_4": {
+    "Road & paths": 50.5,
+    "Sky": 29.12,
+    "Trees & greenery": 7.52,
+    "People": 0.86,
+    "Buildings": 11.03,
+    "Foreign objects": 0.97
+  },
+  "test_5": {
+    "Road & paths": 30.04,
+    "Sky": 25.71,
+    "Trees & greenery": 17.58,
+    "People": 0.43,
+    "Buildings": 25.6,
+    "Foreign objects": 0.64
+  },
+  "test_6": {
+    "Road & paths": 18.44,
+    "Sky": 14.69,
+    "Trees & greenery": 58.5,
+    "People": 0.0,
+    "Buildings": 6.8,
+    "Foreign objects": 1.57
+  },
+  "test_7": {
+    "Road & paths": 29.82,
+    "Sky": 33.12,
+    "Trees & greenery": 26.77,
+    "People": 0.2,
+    "Buildings": 8.7,
+    "Foreign objects": 1.39
+  }
+}

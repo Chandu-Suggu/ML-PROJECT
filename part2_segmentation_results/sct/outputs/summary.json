@@ -1,0 +1,34 @@
+{
+  "bus": {
+    "Road & paths": 3.13,
+    "Sky": 0.0,
+    "Trees & greenery": 2.06,
+    "People": 8.62,
+    "Buildings": 63.1,
+    "Foreign objects": 23.09
+  },
+  "cityscapes_demo": {
+    "Road & paths": 48.02,
+    "Sky": 6.97,
+    "Trees & greenery": 0.99,
+    "People": 1.39,
+    "Buildings": 31.13,
+    "Foreign objects": 11.49
+  },
+  "large_image": {
+    "Road & paths": 21.77,
+    "Sky": 1.31,
+    "Trees & greenery": 9.73,
+    "People": 8.22,
+    "Buildings": 58.24,
+    "Foreign objects": 0.74
+  },
+  "street_demo": {
+    "Road & paths": 9.44,
+    "Sky": 0.0,
+    "Trees & greenery": 76.43,
+    "People": 6.41,
+    "Buildings": 1.42,
+    "Foreign objects": 6.3
+  }
+}
