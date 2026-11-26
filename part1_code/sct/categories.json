@@ -1,0 +1,15 @@
+{
+  "_comment": "Stage 4 config. Each category lists the Cityscapes classes it absorbs and its colour (R, G, B). Any class not listed falls into 'fallback'. Edit freely: move classes between groups or change colours.",
+  "categories": [
+    {"name": "Road & paths",     "color": [150,  60, 190], "classes": ["road", "sidewalk"]},
+    {"name": "Sky",              "color": [ 70, 160, 255], "classes": ["sky"]},
+    {"name": "Trees & greenery", "color": [ 40, 190,  60], "classes": ["vegetation", "terrain"]},
+    {"name": "People",           "color": [235,  30,  50], "classes": ["person", "rider"]},
+    {"name": "Buildings",        "color": [255, 150,  30], "classes": ["building", "wall", "fence"]},
+    {"name": "Foreign objects",  "color": [255, 240,   0], "classes": ["pole", "traffic light", "traffic sign", "car", "truck", "bus", "train", "motorcycle", "bicycle"]}
+  ],
+  "fallback": "Foreign objects",
+  "uncertain_to": "Foreign objects",
+  "min_region_fraction": 0.0002,
+  "protect_from_cleanup": ["People", "Foreign objects"]
+}
