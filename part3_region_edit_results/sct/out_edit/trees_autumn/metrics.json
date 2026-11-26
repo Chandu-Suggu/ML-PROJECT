@@ -1,0 +1,141 @@
+{
+  "edits": [
+    "trees=autumn"
+  ],
+  "mode": "hybrid",
+  "results": {
+    "test_1": {
+      "selected_fraction": 0.0939,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 0.502,
+        "in_region_change": 32.28,
+        "layout_mIoU": 0.6265,
+        "layout_mIoU_unselected": 0.6184,
+        "boundary_F": 0.9766
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 60.644,
+        "outside_L1_all_unselected": 59.653,
+        "in_region_change": 40.78,
+        "layout_mIoU": 0.1489,
+        "layout_mIoU_unselected": 0.1745,
+        "boundary_F": 0.949
+      }
+    },
+    "test_2": {
+      "selected_fraction": 0.2137,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 0.752,
+        "in_region_change": 43.15,
+        "layout_mIoU": 0.5858,
+        "layout_mIoU_unselected": 0.5504,
+        "boundary_F": 0.9615
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 62.98,
+        "outside_L1_all_unselected": 62.506,
+        "in_region_change": 48.19,
+        "layout_mIoU": 0.098,
+        "layout_mIoU_unselected": 0.0338,
+        "boundary_F": 0.9643
+      }
+    },
+    "test_3": {
+      "selected_fraction": 0.2687,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 0.507,
+        "in_region_change": 44.23,
+        "layout_mIoU": 0.5495,
+        "layout_mIoU_unselected": 0.4557,
+        "boundary_F": 0.9806
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 57.247,
+        "outside_L1_all_unselected": 56.796,
+        "in_region_change": 46.69,
+        "layout_mIoU": 0.3154,
+        "layout_mIoU_unselected": 0.1926,
+        "boundary_F": 0.9736
+      }
+    },
+    "test_4": {
+      "selected_fraction": 0.0919,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 0.705,
+        "in_region_change": 44.09,
+        "layout_mIoU": 0.5772,
+        "layout_mIoU_unselected": 0.7234,
+        "boundary_F": 0.9682
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 61.412,
+        "outside_L1_all_unselected": 60.976,
+        "in_region_change": 52.52,
+        "layout_mIoU": 0.034,
+        "layout_mIoU_unselected": 0.0336,
+        "boundary_F": 0.9554
+      }
+    },
+    "test_5": {
+      "selected_fraction": 0.1675,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 0.652,
+        "in_region_change": 37.28,
+        "layout_mIoU": 0.5896,
+        "layout_mIoU_unselected": 0.5448,
+        "boundary_F": 0.976
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 56.96,
+        "outside_L1_all_unselected": 56.3,
+        "in_region_change": 41.98,
+        "layout_mIoU": 0.1755,
+        "layout_mIoU_unselected": 0.132,
+        "boundary_F": 0.9637
+      }
+    },
+    "test_6": {
+      "selected_fraction": 0.4666,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 0.837,
+        "in_region_change": 45.19,
+        "layout_mIoU": 0.7008,
+        "layout_mIoU_unselected": 0.5423,
+        "boundary_F": 0.9531
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 61.565,
+        "outside_L1_all_unselected": 61.636,
+        "in_region_change": 48.28,
+        "layout_mIoU": 0.355,
+        "layout_mIoU_unselected": 0.1642,
+        "boundary_F": 0.9625
+      }
+    },
+    "test_7": {
+      "selected_fraction": 0.2486,
+      "ours": {
+        "outside_L1_beyond_band": 0.0,
+        "outside_L1_all_unselected": 1.005,
+        "in_region_change": 39.47,
+        "layout_mIoU": 0.6814,
+        "layout_mIoU_unselected": 0.611,
+        "boundary_F": 0.9741
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 63.233,
+        "outside_L1_all_unselected": 62.112,
+        "in_region_change": 46.99,
+        "layout_mIoU": 0.2487,
+        "layout_mIoU_unselected": 0.1287,
+        "boundary_F": 0.9684
+      }
+    }
+  }
+}

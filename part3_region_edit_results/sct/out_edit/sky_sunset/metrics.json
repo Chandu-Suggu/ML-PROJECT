@@ -1,0 +1,141 @@
+{
+  "edits": [
+    "sky=sunset"
+  ],
+  "mode": "hybrid",
+  "results": {
+    "test_1": {
+      "selected_fraction": 0.233,
+      "ours": {
+        "outside_L1_beyond_band": 0.748,
+        "outside_L1_all_unselected": 2.027,
+        "in_region_change": 90.08,
+        "layout_mIoU": 0.6081,
+        "layout_mIoU_unselected": 0.8559,
+        "boundary_F": 0.9591
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 57.358,
+        "outside_L1_all_unselected": 57.68,
+        "in_region_change": 90.75,
+        "layout_mIoU": 0.0995,
+        "layout_mIoU_unselected": 0.1223,
+        "boundary_F": 0.7405
+      }
+    },
+    "test_2": {
+      "selected_fraction": 0.2934,
+      "ours": {
+        "outside_L1_beyond_band": 0.106,
+        "outside_L1_all_unselected": 1.39,
+        "in_region_change": 103.4,
+        "layout_mIoU": 0.5244,
+        "layout_mIoU_unselected": 0.8404,
+        "boundary_F": 0.9458
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 62.21,
+        "outside_L1_all_unselected": 62.406,
+        "in_region_change": 103.69,
+        "layout_mIoU": 0.135,
+        "layout_mIoU_unselected": 0.21,
+        "boundary_F": 0.7594
+      }
+    },
+    "test_3": {
+      "selected_fraction": 0.1743,
+      "ours": {
+        "outside_L1_beyond_band": 1.065,
+        "outside_L1_all_unselected": 2.265,
+        "in_region_change": 101.42,
+        "layout_mIoU": 0.4342,
+        "layout_mIoU_unselected": 0.617,
+        "boundary_F": 0.9111
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 66.696,
+        "outside_L1_all_unselected": 67.263,
+        "in_region_change": 101.77,
+        "layout_mIoU": 0.1311,
+        "layout_mIoU_unselected": 0.1621,
+        "boundary_F": 0.7218
+      }
+    },
+    "test_4": {
+      "selected_fraction": 0.2888,
+      "ours": {
+        "outside_L1_beyond_band": 0.031,
+        "outside_L1_all_unselected": 0.712,
+        "in_region_change": 105.63,
+        "layout_mIoU": 0.5425,
+        "layout_mIoU_unselected": 0.851,
+        "boundary_F": 0.9632
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 78.102,
+        "outside_L1_all_unselected": 77.916,
+        "in_region_change": 105.94,
+        "layout_mIoU": 0.0496,
+        "layout_mIoU_unselected": 0.0639,
+        "boundary_F": 0.2559
+      }
+    },
+    "test_5": {
+      "selected_fraction": 0.2513,
+      "ours": {
+        "outside_L1_beyond_band": 0.025,
+        "outside_L1_all_unselected": 0.997,
+        "in_region_change": 115.85,
+        "layout_mIoU": 0.6088,
+        "layout_mIoU_unselected": 0.8459,
+        "boundary_F": 0.8743
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 69.496,
+        "outside_L1_all_unselected": 70.48,
+        "in_region_change": 116.48,
+        "layout_mIoU": 0.0808,
+        "layout_mIoU_unselected": 0.1169,
+        "boundary_F": 0.6615
+      }
+    },
+    "test_6": {
+      "selected_fraction": 0.1417,
+      "ours": {
+        "outside_L1_beyond_band": 0.159,
+        "outside_L1_all_unselected": 1.889,
+        "in_region_change": 113.39,
+        "layout_mIoU": 0.5008,
+        "layout_mIoU_unselected": 0.8099,
+        "boundary_F": 0.8756
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 61.343,
+        "outside_L1_all_unselected": 62.337,
+        "in_region_change": 113.97,
+        "layout_mIoU": 0.1564,
+        "layout_mIoU_unselected": 0.1962,
+        "boundary_F": 0.5569
+      }
+    },
+    "test_7": {
+      "selected_fraction": 0.3224,
+      "ours": {
+        "outside_L1_beyond_band": 0.972,
+        "outside_L1_all_unselected": 3.564,
+        "in_region_change": 84.45,
+        "layout_mIoU": 0.3451,
+        "layout_mIoU_unselected": 0.6002,
+        "boundary_F": 0.9108
+      },
+      "global_baseline": {
+        "outside_L1_beyond_band": 46.037,
+        "outside_L1_all_unselected": 47.043,
+        "in_region_change": 84.74,
+        "layout_mIoU": 0.2147,
+        "layout_mIoU_unselected": 0.2883,
+        "boundary_F": 0.8519
+      }
+    }
+  }
+}
